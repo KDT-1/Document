@@ -1,0 +1,55 @@
+body {
+    background-color: #18224E;
+    color: white;
+    text-align: center;
+    width: auto;
+}
+
+header {
+    height: 60px;
+
+}
+
+
+
+.main_text{
+    color: aqua;
+}
+
+div {
+    border: 3px solid white;
+}
+
+#logo {
+    width:30%;
+    height: 100%;
+    float: left;
+}
+
+#hamburger {
+    width:15%;
+    height: 100%;
+    float: right;
+    margin-right: 0;
+}
+
+#home {
+    width: 15%;
+    height: 100%;
+    float: right;
+    margin-right: 15px;
+}
+
+#siren {
+    width: 99%;
+    height: 575px;
+    border: 3px solid white;
+    margin: 10px auto;
+}
+
+#btn2 {
+    position: absolute;
+    bottom: 0;
+    width: 95%;
+    height: 70px;
+}
